@@ -9,8 +9,6 @@ The migration to the CDN-based release will show some approval/install prompts, 
 
 > Note: Alpha and Insider are already migrated to the new CDN release, but Production won't go for a bit longer still. 
 
-If you still want the legacy ClickOnce installer, use [this old link](https://evanbasalik.github.io/OOFSponder/production/OOFScheduling.application).
-
 Note that Windows may throw a warning the first time you install the older OOFSponder, but if you select _Keep_ and then _Run anyway_ it will install properly. Future upgrades will not show the same warning, nor will the CDN-based installer.
 
 Set the hours to when you work, if you don't work that day check Off Work.  
@@ -38,3 +36,6 @@ The _Audience Scope_ dropdown controls who receives your external OOF message. T
 - **All** – All external senders will receive the external OOF message.
 
 _Hint: If you do not want to send an external OOF message at all, set the Audience Scope to **None**._
+
+**Legacy ClickOnce Installer**
+If you still want the legacy ClickOnce installer, use [this old link](https://evanbasalik.github.io/OOFSponder/production/OOFScheduling.application).
