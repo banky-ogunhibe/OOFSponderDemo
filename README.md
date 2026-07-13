@@ -5,9 +5,9 @@
 
 👉 Try the new CDN-based, signed version here: [OOFSponder CDN Install](https://aka.ms/OOFSponderInstall) 👈
 
-The migration to the CDN-based release will show some approval/install prompts, but general functionality won't change and it will still continue to auto-update.
+> **Update:** The CDN-based release is now rolling out to production! Existing ClickOnce users will be gradually migrated to the new CDN-based install over the coming weeks. The migration will show some approval/install prompts, but general functionality won't change and it will still continue to auto-update.
 
-> Note: Alpha and Insider are already migrated to the new CDN release, but Production won't go for a bit longer still. 
+> Note: Alpha and Insider are already migrated to the new CDN release. Production is now starting its gradual rollout with automatic migration for ~10% of users each weekday.
 
 Note that Windows may throw a warning the first time you install the older OOFSponder, but if you select _Keep_ and then _Run anyway_ it will install properly. Future upgrades will not show the same warning, nor will the CDN-based installer.
 
